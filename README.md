@@ -3,10 +3,10 @@ Newsletter Signup Page
 A clean and responsive newsletter signup page designed to help businesses grow their email list and engage with users effectively. Built with a minimal and modern layout, this page offers a seamless way for visitors to subscribe and stay updated with the latest news, offers, and collections.
 
 🌐 Live Demo
-[View Live Demo] (https://mohammadzali2005.github.io/NewsletterSignupPage/)
+https://mohammadzali2005.github.io/NewsletterSignupPage/
 
 📂 Repository
-[Repository] (https://github.com/mohammadzali2005/NewsletterSignupPage)
+https://github.com/mohammadzali2005/NewsletterSignupPage
 
 
 ✨ Features:
