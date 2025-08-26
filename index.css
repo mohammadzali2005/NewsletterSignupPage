@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Sora:wght@100..800&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins';
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 70%;
+    height: 100%;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    margin-bottom: 30px;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.paragraph{
+    font-size: 20px;
+    font-weight: 400;
+    color: #6C727F;
+    width: 65%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.form{
+    width: 550px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0 0 50px #E5E7EB;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.input{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 50px #E5E7EB;
+    padding: 4px;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #394150;
+}
+
+.subscribe-button{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #284BCE;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.subscribe-button:hover{
+    background-color: #1E3A8A;
+    cursor: pointer;
+}
+
+.info{
+    width: 100%;
+    font-size: 15px;
+    color: #394150;
+    text-align: center;
+}
